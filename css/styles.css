@@ -22,13 +22,13 @@ h1 {
 
 .topcloud {
     position: absolute;
-    right: 200px;
+    
 }
 
 .bottomcloud {
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    right:80%;
+    bottom: 80%;
 }
 
 .text {
